@@ -2,6 +2,7 @@
 
 **Technology used**
 **Power BI**:Used for creating interactive dashboard and intial data preprocessing ,calculation and creating Quick summaries.
+
 **Data Description**: The dataset with various columns representing different aspects of hospital operations and patient care. Here's a breakdown of the columns:
 1.	**Hospital ID**: A unique identifier for the hospital.
 2.	**Hospital Nam**e: The name of the hospital.
